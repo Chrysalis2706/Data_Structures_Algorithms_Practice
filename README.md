@@ -1,3 +1,7 @@
+<p>
+    <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=80&lines=Parth's+DSA+preperation+repo"/> </a>
+</p>
+
 Hello Coders </>
 
 ++ This is PARTH DWIVEDI
